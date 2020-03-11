@@ -2,15 +2,15 @@
 
 ## Assignment 1 - (carousel)
 
-* [Git Repository](https://github.com/razzkumar/carousel)
-* [DEMO](https://razzkumar.github.io/carousel)
+* [Git Repository](https://github.com/razzkumar/lf-assigment/carousel)
+* [DEMO](https://razzkumar.github.io/lf-assigment/carousel)
 
 ## Assigment 2 (collision Detection) *
 
-*  ### Box collision 
-    * [Git Repository](https://github.com/razzkumar/box-collision)
-    * [DEMO](https://razzkumar.github.io/box-collision/)
-*  ### Ant Smasher  
+*  ### Box collision
+    * [Git Repository](https://github.com/razzkumar/lf-assigment/box-collision)
+    * [DEMO](https://razzkumar.github.io/lf-assigment/box-collision/)
+*  ### Ant Smasher
     * [Git Repository](https://github.com/razzkumar/ant-smasher )
     * [DEMO](https://razzkumar.github.io/ant-smasher/)
 
