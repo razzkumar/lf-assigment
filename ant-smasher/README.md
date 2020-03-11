@@ -1,5 +1,5 @@
 # Ant-collision Detection
 
-Created with 
+Created with
 
-[Demo](https://razzkumar.github.io/ant-smasher/)
+[Demo](https://razzkumar.github.io/lf-assigment/ant-smasher/)

@@ -1,3 +1,3 @@
 # Image Slider
 
-[Demo](https://razzkumar.github.io/carousel/)
+[Demo](https://razzkumar.github.io/lf-assigment/carousel/)

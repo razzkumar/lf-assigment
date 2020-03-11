@@ -1,3 +1,4 @@
 # Ball collision detectation
 
-[DEMO](https://razzkumar.github.io/ball-collision-canvas/)
+[DEMO](https://razzkumar.github.io/lf-assigment/ball-collision-canvas/)
+

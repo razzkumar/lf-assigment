@@ -1,4 +1,4 @@
 # 2D Car Game
 
-[Demo](https://razzkumar.github.io/car-race/)
+[Demo](https://razzkumar.github.io/lf-assigment/car-race/)
 

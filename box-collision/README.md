@@ -1,8 +1,8 @@
 # Box-collision Detection
 
-Created with 
+Created with
 
-[Demo](https://razzkumar.github.io/box-collision/)
+[Demo](https://razzkumar.github.io/lf-assigment/box-collision/)
 
 ## Reference
 
