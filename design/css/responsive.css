@@ -1,0 +1,276 @@
+@media (min-width:480px) {
+
+    .btn {
+        width: 190px;
+    }
+
+    .intro h2 {
+        font-size: 30px;
+    }
+
+    .intro p {
+        font-size: 18px;
+    }
+
+    .work-with-hand h2 {
+        font-size: 40px;
+        padding: 10px 0;
+    }
+
+    .left-buttom .text {
+        font-size: 14px;
+    }
+
+    .left-buttom .date {
+        font-size: 8px;
+    }
+
+
+    .right-buttom {
+        font-size: 16px;
+    }
+
+    .header .banner {
+        padding: 30px 0;
+    }
+
+    .ipod-container {
+        height: 100px;
+    }
+
+    .ipod {
+        width: 45%;
+    }
+
+    .phone-container {
+        height: 150px;
+    }
+
+    .before-footer {
+        margin-top: 75px;
+    }
+
+}
+
+@media (min-width:768px) {
+
+    .btn {
+        width: 220px;
+        padding: 22px;
+    }
+
+    .btn-group {
+        padding-top: 30px;
+    }
+
+    .nav a {
+        padding: 0 13px;
+        font-size: 14px;
+    }
+
+    .intro p {
+        font-size: 20px;
+    }
+
+    .intro-wrapper {
+        margin-bottom: 95px;
+    }
+
+    .video-info {
+        padding: 73px 15px;
+    }
+
+    .video-info h2 {
+        font-size: 35px;
+    }
+
+    .video-info p {
+        margin: 10px 30px 0 0;
+    }
+
+    .work-with-hand {
+        padding-top: 90px;
+    }
+
+    .work-with-hand p {
+        font-size: 16px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }
+
+
+    .work-with-hand .right-container {
+        margin-top: 0;
+    }
+
+
+    .left-buttom .text {
+        font-size: 16px;
+    }
+
+    .left-buttom .date {
+        font-size: 9px;
+    }
+
+
+    .right-buttom {
+        font-size: 18px;
+    }
+
+    .card ul {
+        min-height: 315px;
+    }
+
+    .banner h1 {
+        font-size: 60.18px;
+    }
+
+    .banner p {
+        font-size: 19.06px;
+    }
+
+    .subcription {
+        display: inline-block;
+        max-width: 360px;
+    }
+
+    .subcription.below {
+        margin-top: 0;
+    }
+
+    .left-two-feature {
+        float: left;
+    }
+
+    .left-two-feature .feature.right {
+        width: 48%;
+        float: right;
+    }
+
+    .left-two-feature .feature.left {
+        width: 48%;
+        float: left;
+    }
+
+
+    .ipod-container {
+        height: 150px;
+    }
+
+    .phone-container {
+        height: 250px;
+    }
+
+    .left-container {
+        width: 48%;
+        float: left;
+    }
+
+    .right-container {
+        width: 48%;
+        float: right;
+    }
+
+    .before-footer {
+        margin-top: 90px;
+    }
+
+    .footer-nav-wrapper {
+        display: table;
+    }
+
+    .footer-nav {
+        margin-right: 60px;
+        display: table-cell;
+        padding: 0 80px;
+    }
+
+    .btn-scroll-top {
+        width: 35px;
+        height: 35px;
+        bottom: 80px;
+        right: 45px;
+    }
+
+}
+
+
+@media (min-width:992px) {
+    .intro h2 {
+        font-size: 35px;
+    }
+
+    .header .navigation-bar {
+        width: 100%;
+    }
+
+    .header .banner {
+        width: 100%;
+        padding: 40px 0;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .header {
+        padding-top: 36px;
+    }
+
+    .feature-wrapper {
+        padding: 70px 0 125px 0;
+    }
+
+    .feature img {
+        margin: 40px 0;
+    }
+
+    .left-two-feature {
+        width: 63.33333%;
+    }
+
+    .left-two-feature .feature.right {
+        width: 46%;
+        float: right;
+    }
+
+    .left-two-feature .feature.left {
+        width: 46%;
+        float: left;
+    }
+
+    .subcription {
+        max-width: 420px;
+    }
+
+
+    .feature {
+        box-sizing: border-box;
+        width: 31.666667%;
+        float: right;
+    }
+
+    .ipod-container {
+        height: 200px;
+    }
+
+    .ipod {
+        width: 40%;
+    }
+
+    .phone-container {
+        height: 370px;
+    }
+
+    .before-footer {
+        margin-top: 100px;
+    }
+
+    .btn-scroll-top {
+        width: 45px;
+        height: 45px;
+        bottom: 100px;
+        right: 60px;
+    }
+
+}

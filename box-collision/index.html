@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Box Collision</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+  <div id="boxContainer"></div>
+  <div id="boxContainer2"></div>
+
+  <script src="./js/util.js"></script>
+  <script src="./js/BoxCollision.js"></script>
+  <script src="./js/CollisionDetection.js"></script>
+
+  <script>
+    new CollisionDetection({
+      id: "boxContainer",
+      numberOfBox: 400,
+      boxMinWidth: 7,
+      boxMinMaxtWidth: 15,
+    }).init();
+    new CollisionDetection({
+      id: "boxContainer2",
+      numberOfBox: 40,
+      boxMinWidth: 30,
+      boxMinMaxtWidth: 50,
+    }).init();
+
+  </script>
+</body>
+
+</html>
